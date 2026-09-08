@@ -35,7 +35,7 @@
         </div>
         <div class="space-y-8">
           <div class="[display:grid] gap-3 md:grid-cols-[180px_1fr] md:gap-6">
-            <p class="font-mono text-[11px] uppercase tracking-[0.22em] text-[#C8A96E]">ERÖFFNUNG · 0–15 MIN</p>
+            <p class="font-mono text-[11px] uppercase tracking-[0.22em] text-[#C8A96E]">OPENING · 0–15 MIN</p>
             {% for note in product.metafields.custom.top_notes.value %}
               <div>
                 <p class="text-sm font-semibold text-[#F5F2EC]">{{ note.heading }}</p>
@@ -97,7 +97,7 @@
         "type": "textarea",
         "id": "description",
         "label": "Description",
-        "default": "Die ersten 30 Sekunden verkaufen den Duft. Die nächsten 12 Stunden entscheiden, ob Sie ihn weiterhin verwenden."
+        "default": "De eerste 30 seconden verkopen de geur. De volgende 12 uur bepalen of je hem blijft dragen."
       }, {
         "type": "header",
         "content": "t:sections.all.padding.section_padding_heading"

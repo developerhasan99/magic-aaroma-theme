@@ -14,10 +14,10 @@
       "name": "Popular Products",
       "settings": {
         "background_color": "#fcfbf9",
-        "heading": "Kaufe mehr und spare!",
+        "heading": "Koop meer en bespaar!",
         "subheading": "",
         "collection": "bestselling-bundles",
-        "show_all_button_text": "Schau dir mehr an!",
+        "show_all_button_text": "Bekijk meer!",
         "padding_top": 16,
         "padding_bottom": 12
       }

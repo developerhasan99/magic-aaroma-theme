@@ -46,10 +46,10 @@
 
         <!-- Comparison Rows -->
         <div class="flex flex-col gap-2.5">
-          {% assign comparison_features = "Hohe Qualität,Lang anhaltend,Preiswert,Dermatologisch getestet,Kombinierbare Düfte,Kostenlose 30-Tage-Rückgabe,Schneller Versand,100% Vegan,Tierversuchsfrei" | split: "," %}
+          {% assign comparison_features = "Hoge kwaliteit,Langhoudend,Voordelig,Dermatologisch getest,Combineerbare geuren,Gratis retour binnen 30 dagen,Snelle verzending,100% vegan,Dierproefvrij" | split: "," %}
           {% assign magic_statuses = "check,check,check,check,check,check,check,check,check" | split: "," %}
           {% assign other_statuses = "check,warning,cross,check,cross,warning,warning,warning,warning" | split: "," %}
-          {% assign other_texts = " ,Je nach<br>Händler, , , ,Selten,Je nach<br>Händler,Nicht<br>immer,Nicht<br>immer" | split: "," %}
+          {% assign other_texts = " ,Afhankelijk van<br>verkoper, , , ,Zelden,Afhankelijk van<br>verkoper,Niet<br>altijd,Niet<br>altijd" | split: "," %}
 
           {% for feature_name in comparison_features %}
             {% assign current_index = forloop.index0 %}
@@ -104,13 +104,13 @@
         "type": "text",
         "id": "title",
         "label": "Title",
-        "default": "Warum Magic Parfum?"
+        "default": "Waarom Magic Parfum?"
       },
       {
         "type": "text",
         "id": "subtitle",
         "label": "Subtitle",
-        "default": "Die clevere Alternative zu überteuerten Luxusmarken."
+        "default": "Het slimme alternatief voor overpriced luxemerken."
       },
       {
         "type": "header",
@@ -119,7 +119,7 @@
         "type": "textarea",
         "id": "comparison_items",
         "label": "Comparison Items (JSON format)",
-        "default": "[{\"feature_name\":\"Hohe Qualität\",\"magic_status\":\"check\",\"other_status\":\"check\"},{\"feature_name\":\"Lang anhaltend\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Je nach<br>Händler\"},{\"feature_name\":\"Preiswert\",\"magic_status\":\"check\",\"other_status\":\"cross\"},{\"feature_name\":\"Dermatologisch getestet\",\"magic_status\":\"check\",\"other_status\":\"check\"},{\"feature_name\":\"Kombinierbare Düfte\",\"magic_status\":\"check\",\"other_status\":\"cross\"},{\"feature_name\":\"Kostenlose 30-Tage-Rückgabe\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Selten\"},{\"feature_name\":\"Schneller Versand\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Je nach<br>Händler\"},{\"feature_name\":\"100% Vegan\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Nicht<br>immer\"},{\"feature_name\":\"Tierversuchsfrei\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Nicht<br>immer\"}]"
+        "default": "[{\"feature_name\":\"Hoge kwaliteit\",\"magic_status\":\"check\",\"other_status\":\"check\"},{\"feature_name\":\"Langhoudend\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Afhankelijk van<br>verkoper\"},{\"feature_name\":\"Voordelig\",\"magic_status\":\"check\",\"other_status\":\"cross\"},{\"feature_name\":\"Dermatologisch getest\",\"magic_status\":\"check\",\"other_status\":\"check\"},{\"feature_name\":\"Combineerbare geuren\",\"magic_status\":\"check\",\"other_status\":\"cross\"},{\"feature_name\":\"Gratis retour binnen 30 dagen\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Zelden\"},{\"feature_name\":\"Snelle verzending\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Afhankelijk van<br>verkoper\"},{\"feature_name\":\"100% vegan\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Niet<br>altijd\"},{\"feature_name\":\"Dierproefvrij\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Niet<br>altijd\"}]"
       }, {
         "type": "header",
         "content": "t:sections.all.padding.section_padding_heading"

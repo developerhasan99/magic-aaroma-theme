@@ -17,14 +17,14 @@
         "heading_yHFKeC": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Abonniere unsere E-Mails und sichere dir ein Mystery Duft-Duo GRATIS!</strong>",
+            "heading": "<strong>Meld je aan voor onze e-mails en ontvang GRATIS een mystery geurduo!</strong>",
             "heading_size": "h2"
           }
         },
         "paragraph_zERFgA": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Erfahre als Erster von neuen Kollektionen und exklusiven Angeboten.</p>"
+            "text": "<p>Wees als eerste op de hoogte van nieuwe collecties en exclusieve aanbiedingen.</p>"
           }
         },
         "email_form_6YfwgH": {
@@ -52,22 +52,22 @@
           "type": "text",
           "settings": {
             "heading": "Magic Perfume",
-            "subtext": "<p>Magic Perfume ist eine Parfümmarke, die dir hilft, deinen ganz persönlichen Duft zu finden. Wir bieten hochwertige Parfums in praktischen Probiergrößen an.<br/></p>",
+            "subtext": "<p>Magic Perfume is een parfummerk dat je helpt jouw heel persoonlijke geur te vinden. Wij bieden hoogwaardige parfums aan in handige probeerformaten.<br/></p>",
             "show_social": true
           }
         },
         "link_list_Fhdw8K": {
           "type": "link_list",
           "settings": {
-            "heading": "Informationen",
+            "heading": "Informatie",
             "menu": "footer"
           }
         },
         "text_RP9BNp": {
           "type": "text",
           "settings": {
-            "heading": "Kontakt",
-            "subtext": "<p>Betreibendes Unternehmen: </p><p>Magico<br/>34 Traverse de la Paoute, 06130 Grasse, France<br/><br/>Phone: to this +44808 1724138 or +1 888 373 6114</p><p><br/>Email: hello@magicperfume.co</p>",
+            "heading": "Contact",
+            "subtext": "<p>Verantwoordelijke onderneming: </p><p>Magico<br/>34 Traverse de la Paoute, 06130 Grasse, Frankrijk<br/><br/>Telefoon: +44808 1724138 of +1 888 373 6114</p><p><br/>E-mail: hello@magicperfume.co</p>",
             "show_social": false
           }
         }

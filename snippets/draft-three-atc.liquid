@@ -7,7 +7,7 @@
 </style>
 
 {% if product.metafields.custom.similar_scents != blank %}
-  <p class="text-base font-serif leading-tight">Parfüms mit ähnlichen Duftnoten:</p>
+  <p class="text-base font-serif leading-tight">Parfums met vergelijkbare geurnoten:</p>
   {% assign similar_scents = product.metafields.custom.similar_scents.value %}
   <div class="swiper slider-{{ section.id }}-{{ forloop.index }}">
     <div class="swiper-wrapper">
@@ -87,7 +87,7 @@
 
 {% if product.variants.size > 1 %}
   {% comment %} Variant Selector {% endcomment %}
-  <h2 class="m-0 text-sm text-gray-400 tracking-wide font-normal">GRÖSSENAUSWAHL:</h2>
+  <h2 class="m-0 text-sm text-gray-400 tracking-wide font-normal">FORMAAT KIEZEN:</h2>
   <div class="flex gap-3" id="variant-selector">
     {% for variant in product.variants %}
       <button
@@ -151,7 +151,7 @@
           stroke-miterlimit="10"
           stroke-linecap="round" />
       </svg>
-      <span>In den Warenkorb</span>
+      <span>In winkelwagen</span>
       {%- render 'loading-spinner' -%}
     </button>
   {%- endform -%}
@@ -281,29 +281,29 @@
 
 {% case month_en %}
   {% when "January" %}
-    {% assign month = "Januar" %}
+    {% assign month = "januari" %}
   {% when "February" %}
-    {% assign month = "Februar" %}
+    {% assign month = "februari" %}
   {% when "March" %}
-    {% assign month = "März" %}
+    {% assign month = "maart" %}
   {% when "April" %}
-    {% assign month = "April" %}
+    {% assign month = "april" %}
   {% when "May" %}
-    {% assign month = "Mai" %}
+    {% assign month = "mei" %}
   {% when "June" %}
-    {% assign month = "Juni" %}
+    {% assign month = "juni" %}
   {% when "July" %}
-    {% assign month = "Juli" %}
+    {% assign month = "juli" %}
   {% when "August" %}
-    {% assign month = "August" %}
+    {% assign month = "augustus" %}
   {% when "September" %}
-    {% assign month = "September" %}
+    {% assign month = "september" %}
   {% when "October" %}
-    {% assign month = "Oktober" %}
+    {% assign month = "oktober" %}
   {% when "November" %}
-    {% assign month = "November" %}
+    {% assign month = "november" %}
   {% when "December" %}
-    {% assign month = "Dezember" %}
+    {% assign month = "december" %}
 {% endcase %}
 
 <div class="!my-6 flex justify-center items-center gap-3">
@@ -326,8 +326,8 @@
       width="40"
       height="40" />
     <div class="text-slate-900">
-      <strong class="font-semibold">Teste es 60 Tage lang – völlig risikofrei.</strong>
-      <div class="[display:none] md:block">Sollten Sie nicht absolut begeistert sein, erstatten wir Ihnen den vollen Betrag zurück!</div>
+      <strong class="font-semibold">Test hem 60 dagen lang – helemaal zonder risico.</strong>
+      <div class="[display:none] md:block">Ben je niet helemaal enthousiast, dan storten wij het volledige bedrag terug!</div>
     </div>
   </div>
 </div>

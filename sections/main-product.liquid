@@ -153,9 +153,9 @@
                       {% if product.template_suffix == 'expressive-notes' %}
                         <span class="inline-flex items-center px-3 py-1 rounded-md border border-solid border-[#3b82f6] text-[#3b82f6] text-xs leading-tight font-medium bg-white">
                         {% if product.tags contains 'Woman' or product.tags contains 'fuer-frauen' %}
-                         FRAUEN
+                         DAMES
                         {% else %}
-                         MÄNNER
+                         HEREN
                         {% endif %}
                         </span>
                       {% endif %}
@@ -947,7 +947,7 @@
                           </span>
                         {% endif %}
                         <h3 class="mt-2 mb-1 tracking-normal font-semibold leading-snug text-slate-900 text-sm sm:text-base md:text-lg">
-                          Unser bestes Angebot: Stell dein Paket zusammen!
+                          Onze beste deal: stel je eigen pakket samen!
                         </h3>
                         <p class="m-0 tracking-normal text-slate-600 text-sm md:text-base">
                           Nur
@@ -976,7 +976,7 @@
                   {% render 'reactive-atc' %}
                 {% when 'similar_scents' %}
                   {% if product.metafields.custom.similar_scents != blank %}
-                    <p class="text-base font-serif leading-tight">Parfums mit ähnlichen Duftnoten:</p>
+                    <p class="text-base font-serif leading-tight">Parfums met vergelijkbare geurnoten:</p>
                     {% assign similar_scents = product.metafields.custom.similar_scents.value %}
                     <div class="swiper slider-{{ section.id }}-{{ forloop.index }}">
                       <div class="swiper-wrapper">
@@ -1183,13 +1183,13 @@
           "type": "text",
           "id": "title",
           "label": "Money Back Guarantee Title",
-          "default": "Teste es 60 Tage lang – völlig risikofrei."
+          "default": "Test hem 60 dagen lang – helemaal zonder risico."
         },
         {
           "type": "inline_richtext",
           "id": "text",
           "label": "Money Back Guarantee Text",
-          "default": "Sollten Sie nicht absolut begeistert sein, erstatten wir Ihnen den vollen Betrag zurück!"
+          "default": "Ben je niet helemaal enthousiast, dan storten wij het volledige bedrag terug!"
         }
       ]
     },

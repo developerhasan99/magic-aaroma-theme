@@ -15,7 +15,7 @@
         "custom_rating_text_ehyqmQ": {
           "type": "custom_rating_text",
           "settings": {
-            "text": "4,7/5 (10.000+) Alle ansehen"
+            "text": "4,7/5 (10.000+) Alles bekijken"
           }
         },
         "title_DkyBTh": {
@@ -134,54 +134,54 @@
         "collapsible_tab_bKn87j": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Warum sind eure Parfüms so günstig?",
+            "heading": "Waarom zijn jullie parfums zo voordelig?",
             "icon": "none",
-            "content": "<p>Wir konzentrieren uns auf den Duftinhalt.<strong>Kein</strong>luxuriöses Flakon,<strong>keine</strong>besondere Verpackung,<strong>keine</strong>teuren Läden &<strong>keine</strong>teuren Influencerdeals ermöglichen dir luxuriös zu riechen, ohne das Budget zu sprengen.</p>",
+            "content": "<p>Wij richten ons op de geur zelf.<strong>Geen</strong>luxe flacon,<strong>geen</strong>bijzondere verpakking,<strong>geen</strong>dure winkels en<strong>geen</strong>dure influencerdeals – zo ruik je luxe zonder je budget te overschrijden.</p>",
             "page": ""
           }
         },
         "collapsible_tab_T6Fk9z": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Bekomme ich das Eau de Toilette oder das Eau de Parfum?",
+            "heading": "Krijg ik de eau de toilette of de eau de parfum?",
             "icon": "none",
-            "content": "<p>Ja, es ist ein parfümiertes Wasser – es enthält bis zu 19 % Essenz. Eau de Toilette zum Beispiel hat zwischen 5 und 8 % und die Essenz liegt bei 41 % aufwärts.</p>",
+            "content": "<p>Ja, het is een geparfumeerd water – het bevat tot 19% essence. Een eau de toilette bijvoorbeeld heeft tussen 5 en 8%, en bij parfumextract ligt dat op 41% of hoger.</p>",
             "page": ""
           }
         },
         "collapsible_tab_GUrz86": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Wie lange hält das Parfüm?",
+            "heading": "Hoe lang blijft het parfum hangen?",
             "icon": "none",
-            "content": "<p>Das Parfüm hält je nach Person unterschiedlich lange an, von 3 bis 8 Stunden für einen ruhigen, intensiven Duft. Nach einer längeren Zeitspanne verblasst der Duft.</p>",
+            "content": "<p>Hoe lang het parfum blijft hangen verschilt per persoon, van 3 tot 8 uur voor een rustige, intense geur. Na verloop van tijd vervaagt de geur.</p>",
             "page": ""
           }
         },
         "collapsible_tab_TKfWP3": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Unterscheidet sich der inspirierte Duft?",
+            "heading": "Verschilt de geïnspireerde geur van het origineel?",
             "icon": "none",
-            "content": "<p>Nein, dieser Duft ist von ähnlichen Duftnoten inspiriert und gehört zur gleichen Duftfamilie.</p>",
+            "content": "<p>Nee, deze geur is geïnspireerd op vergelijkbare geurnoten en behoort tot dezelfde geurfamilie.</p>",
             "page": ""
           }
         },
         "collapsible_tab_HiNKBa": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Was bedeutet 19% Parfüm?",
+            "heading": "Wat betekent 19% parfum?",
             "icon": "none",
-            "content": "<p><br/>Die meisten Eau de Parfums im Handel enthalten zwischen 16 % und 21 % Duftöl. Unsere Kreationen enthalten 19 % und gehören damit zur höheren Kategorie hochwertiger Duftkompositionen.</p>",
+            "content": "<p><br/>De meeste eau de parfums in de handel bevatten tussen 16% en 21% geurolie. Onze creaties bevatten 19% en behoren daarmee tot de hogere categorie van hoogwaardige geurcomposities.</p>",
             "page": ""
           }
         },
         "collapsible_tab_Qn8c4p": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Wie kann es so viel günstiger sein?",
+            "heading": "Hoe kan het zoveel voordeliger zijn?",
             "icon": "none",
-            "content": "<p>Olfaktorische Zubereitungen sind an sich nicht durch geistige Eigentumsrechte geschützt und können daher rechtlich frei reproduziert und als Inspirationsquelle genutzt werden. Dies erklärt, warum viele Markenparfums sich sehr ähnlich sind und manchmal kaum voneinander zu unterscheiden sind.</p><p>Ebenso können Magyx Parfums von anderen Düften inspiriert sein und als Düfte derselben olfaktorischen Kategorie wie andere Parfums beschrieben werden.</p><p>Bitte beachten Sie, dass alle auf unserer Website genannten Duftnamen Dritter ausschließlich den jeweiligen Rechteinhabern gehören und lediglich zur Orientierung der Kunden dienen. Sie dürfen unter keinen Umständen mit Produkten verwechselt werden, die unter diesen Namen im Handel verkauft werden.</p><p>Magyx Parfums steht in keiner Verbindung zu den genannten Drittmarken und wird in keiner Weise von diesen unterstützt oder empfohlen.</p>",
+            "content": "<p>Geurcomposities zijn op zichzelf niet beschermd door intellectuele-eigendomsrechten en mogen daarom juridisch vrij worden gereproduceerd en als inspiratiebron worden gebruikt. Dat verklaart waarom veel merkparfums sterk op elkaar lijken en soms nauwelijks van elkaar te onderscheiden zijn.</p><p>Op dezelfde manier kunnen Magyx Parfums geïnspireerd zijn op andere geuren en worden omschreven als geuren uit dezelfde olfactorische categorie als andere parfums.</p><p>Houd er rekening mee dat alle op onze website genoemde geurnamen van derden uitsluitend toebehoren aan de betreffende rechthebbenden en enkel ter oriëntatie van de klant dienen. Ze mogen onder geen enkele omstandigheid worden verward met producten die onder deze namen in de handel worden verkocht.</p><p>Magyx Parfums heeft geen enkele band met de genoemde merken van derden en wordt door hen op geen enkele wijze gesteund of aanbevolen.</p>",
             "page": ""
           }
         },
@@ -257,10 +257,10 @@
       "name": "Draft Related Products",
       "settings": {
         "background_color": "#ffffff",
-        "heading": "Ähnliche Produkte",
+        "heading": "Vergelijkbare producten",
         "subheading": "",
         "collection": "best-sellers",
-        "show_all_button_text": "Alle anzeigen",
+        "show_all_button_text": "Alles bekijken",
         "padding_top": 72,
         "padding_bottom": 40
       }
@@ -270,8 +270,8 @@
       "name": "Similar Scents",
       "settings": {
         "background_color": "#f7f7f7",
-        "title": "Parfüms mit ähnlichen Duftnoten",
-        "subtitle": "Die intelligente Alternative zu überteuerten Luxusmarken.",
+        "title": "Parfums met vergelijkbare geurnoten",
+        "subtitle": "Het slimme alternatief voor overpriced luxemerken.",
         "padding_top": 36,
         "padding_bottom": 60
       }
@@ -291,7 +291,7 @@
         "heading_PJdXGz": {
           "type": "heading",
           "settings": {
-            "content": "EU Produktion",
+            "content": "Productie in de EU",
             "heading_type": "h2",
             "font_size": 40,
             "mobile_font_size": 24,
@@ -301,7 +301,7 @@
         "text_Mhwr3T": {
           "type": "text",
           "settings": {
-            "content": "<p>Unsere EU Produktion garantiert höchste Qualitätsstandards und ermöglicht es uns, jeden Schritt des Herstellungsprozesses zu überwachen und zu kontrollieren. </p><p>Von der Auswahl der hochwertigen Rohstoffe bis zur sorgfältigen Abfüllung jeder Flasche stellen wir sicher, dass jedes Produkt unseren hohen Ansprüchen an Qualität und Handwerkskunst gerecht wird.</p>",
+            "content": "<p>Onze productie in de EU garandeert de hoogste kwaliteitsnormen en stelt ons in staat om elke stap van het productieproces te bewaken en te controleren. </p><p>Van de selectie van hoogwaardige grondstoffen tot het zorgvuldig vullen van elk flesje zorgen wij ervoor dat elk product voldoet aan onze hoge eisen op het gebied van kwaliteit en vakmanschap.</p>",
             "mobile_content": "",
             "font_size": 18,
             "text_color": "#000000"
@@ -341,7 +341,7 @@
         "heading": "BESTSELERS",
         "subheading": "",
         "collection": "best-sellers",
-        "show_all_button_text": "Alle anzeigen",
+        "show_all_button_text": "Alles bekijken",
         "padding_top": 72,
         "padding_bottom": 72
       }
@@ -352,7 +352,7 @@
         "review_CGhLzh": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Dies ist mein erster Einkauf und ich bin begeistert. Ich werde nie wieder woanders Parfüm kaufen. Ich konnte nie einen Duft-Dupe finden, der wirklich authentisch und konsistent roch.\"</p>",
+            "content": "<p>\"Dit is mijn eerste aankoop en ik ben onder de indruk. Ik koop nooit meer ergens anders parfum. Ik kon nooit een geur-dupe vinden die echt authentiek en consistent rook.\"</p>",
             "author": "Killian P.",
             "date": "1 day ago",
             "rating": 5,
@@ -364,7 +364,7 @@
           "type": "review",
           "settings": {
             "review_image": "shopify://shop_images/magic_ugc_female_01.webp",
-            "content": "<p>\"Das ist der beste Duft, den ich seit sehr langer Zeit gerochen habe, die Noten machen mich wahnsinnig vor Glück. Ich werde diesen für immer in meiner Rotation behalten.\"</p>",
+            "content": "<p>\"Dit is de beste geur die ik in heel lange tijd heb geroken, de noten maken me dolgelukkig. Deze houd ik voor altijd in mijn rotatie.\"</p>",
             "author": "Jenniffer W.",
             "author_image": "shopify://shop_images/magic_ugc_female_01.webp",
             "date": "2 days ago",
@@ -376,7 +376,7 @@
         "review_Beinew": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Alle drei Düfte, die ich erhalten habe, sind sehr gut. Halten lange und riechen so wie sie sollten. Ich war nur mit der Zeit unzufrieden, die es dauerte, sie zu erhalten. Aber ehrlich gesagt habe ich eine zweite Bestellung aufgegeben, also erwarte einfach eine Wartezeit. Haha!<br/>\"</p>",
+            "content": "<p>\"Alle drie de geuren die ik heb ontvangen zijn heel goed. Blijven lang hangen en ruiken zoals het hoort. Ik was alleen niet blij met hoe lang het duurde voordat ze binnen waren. Maar eerlijk gezegd heb ik een tweede bestelling geplaatst, dus reken gewoon op een wachttijd. Haha!<br/>\"</p>",
             "author": "Clara P.",
             "date": "2 days ago",
             "rating": 5,
@@ -387,7 +387,7 @@
         "review_dfTye7": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Ich habe vergeblich versucht, Düfte zu finden, die teuer riechen und lange halten. Die Passform ist genau das, wonach ich gesucht habe.\"</p>",
+            "content": "<p>\"Ik heb tevergeefs geprobeerd geuren te vinden die duur ruiken en lang blijven hangen. Dit is precies waar ik naar op zoek was.\"</p>",
             "author": "Tiana N.",
             "date": "2 days ago",
             "rating": 4,
@@ -398,7 +398,7 @@
         "review_PNtt4z": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Ich war mir nicht sicher, was ich erwarten sollte, aber das hat mich wirklich beeindruckt. Riecht super frisch und ehrlich ziemlich nah an Aventus. Es hält gut und der Preis ist viel besser.\"</p>",
+            "content": "<p>\"Ik wist niet goed wat ik kon verwachten, maar dit heeft me echt onder de indruk gebracht. Ruikt superfris en eerlijk gezegd behoorlijk dicht bij Aventus. Blijft goed hangen en de prijs is veel beter.\"</p>",
             "author": "Michael T.",
             "date": "2 days ago",
             "rating": 4,
@@ -410,7 +410,7 @@
           "type": "review",
           "settings": {
             "review_image": "shopify://shop_images/magic_ugc_male_02.webp",
-            "content": "<p>\"Einer meiner Lieblingsdüfte. Kam wirklich schnell zu mir. Riecht so schön.\"</p>",
+            "content": "<p>\"Een van mijn favoriete geuren. Kwam echt snel binnen. Ruikt zo lekker.\"</p>",
             "author": "Alex W.",
             "author_image": "shopify://shop_images/magic_ugc_male_02.webp",
             "date": "2 days ago",
@@ -422,7 +422,7 @@
         "review_VPVPkT": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Ich liiiebe diese Parfüms!!! Jedes einzelne, das ich bekommen habe, riecht göttlich. Einige würde ich sagen sind besser als das Original.\"</p>",
+            "content": "<p>\"Ik ben helemaal wég van deze parfums!!! Elk exemplaar dat ik heb gekregen ruikt goddelijk. Van sommige zou ik zeggen dat ze beter zijn dan het origineel.\"</p>",
             "author": "Christine N.",
             "date": "5 days ago",
             "rating": 4,
@@ -434,7 +434,7 @@
           "type": "review",
           "settings": {
             "review_image": "shopify://shop_images/magic_ugc_male_01.webp",
-            "content": "<p>\"Zuerst war ich besorgt, dass sich die Lieferung etwas verzögert hat, aber als ich sie erhalten habe, war ich erstaunt über den Geruch, sobald er sich gesetzt hat, meine Güte, es ist einfach fantastisch.\"</p>",
+            "content": "<p>\"Eerst was ik bezorgd dat de levering wat vertraagd was, maar toen ik hem ontving was ik verbaasd over de geur zodra hij zich had gezet – mijn hemel, het is gewoon fantastisch.\"</p>",
             "author": "Lionel M.",
             "author_image": "shopify://shop_images/magic_ugc_male_01.webp",
             "date": "7 days ago",
@@ -446,7 +446,7 @@
         "review_EYCLJq": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Es riecht sehr schön, aber hält nicht so lange wie es sollte\"</p>",
+            "content": "<p>\"Het ruikt heel lekker, maar blijft niet zo lang hangen als zou moeten\"</p>",
             "author": "Terence M.",
             "date": "2 Months ago",
             "rating": 5,
@@ -457,7 +457,7 @@
         "review_Qbcx4t": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Ist perfekt und wunderschön 🥰🥰🥰\"</p>",
+            "content": "<p>\"Is perfect en prachtig 🥰🥰🥰\"</p>",
             "author": "Lidis A.",
             "date": "2 Months ago",
             "rating": 5,
@@ -468,7 +468,7 @@
         "review_3rR47r": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Riecht sehr gut, es hat mich fasziniert\"</p>",
+            "content": "<p>\"Ruikt heel lekker, ik was meteen verkocht\"</p>",
             "author": "Castillo B.",
             "date": "3 Months ago",
             "rating": 5,
@@ -479,7 +479,7 @@
         "review_ma3gjJ": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Perfekt duftende Parfüms, die Düfte halten sehr lange, hervorragende Qualität\"</p>",
+            "content": "<p>\"Heerlijk ruikende parfums, de geuren blijven heel lang hangen, uitstekende kwaliteit\"</p>",
             "author": "Kamila G.",
             "date": "3 Months ago",
             "rating": 5,
@@ -490,7 +490,7 @@
         "review_9PDCrG": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Riecht genau wie Luna Rossa Carbon, aber viel günstiger. Kann nicht glauben, wie nah es dran ist.\"</p>",
+            "content": "<p>\"Ruikt precies als Luna Rossa Carbon, maar veel voordeliger. Niet te geloven hoe dichtbij het komt.\"</p>",
             "author": "Robinson D.",
             "date": "4 Months ago",
             "rating": 4,
@@ -501,7 +501,7 @@
         "review_7Q4gpj": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Das ist die Art von Duft, die einen gepflegt fühlen lässt. Nicht überwältigend, genau richtig. 👌\"</p>",
+            "content": "<p>\"Dit is het soort geur waar je je verzorgd door voelt. Niet overweldigend, precies goed. 👌\"</p>",
             "author": "Michael R.",
             "date": "4 Months ago",
             "rating": 5,
@@ -512,7 +512,7 @@
         "review_nVGFJd": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Ich trage Creed Aventus seit Jahren, aber das ist der nächste Dupe, den ich gefunden habe – und das zu einem Bruchteil des Preises. Die Ananas-Vanille-Kombination ist perfekt getroffen.\"</p>",
+            "content": "<p>\"Ik draag Creed Aventus al jaren, maar dit is de dichtstbijzijnde dupe die ik heb gevonden – en dan voor een fractie van de prijs. De ananas-vanillecombinatie is perfect getroffen.\"</p>",
             "author": "Alvarez P.",
             "date": "4 Months ago",
             "rating": 4,
@@ -524,7 +524,7 @@
           "type": "review",
           "settings": {
             "review_image": "shopify://shop_images/magic_ugc_female_02.webp",
-            "content": "<p>\"Das Produkt kam schön verpackt an. Das Parfüm war nicht kaputt, ist nicht ausgelaufen und war in gutem Zustand. Der Duft ist perfekt und roch nicht schlecht. Ich liebe es, hohe Qualität\"</p>",
+            "content": "<p>\"Het product kwam mooi verpakt aan. Het parfum was niet kapot, niet gelekt en in goede staat. De geur is perfect en rook nergens naar. Ik ben er dol op, hoge kwaliteit\"</p>",
             "author": "Anne E.",
             "author_image": "shopify://shop_images/magic_ugc_female_02.webp",
             "date": "4 Months ago",
@@ -536,7 +536,7 @@
         "review_teUz9h": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Wunderschöner Duft. Langanhaltend. <br/>Süß und warm. Gute schnelle Lieferung. <br/>Werde wieder kaufen.\"</p>",
+            "content": "<p>\"Prachtige geur. Langhoudend. <br/>Zoet en warm. Fijne snelle levering. <br/>Ga zeker weer kopen.\"</p>",
             "author": "Lucy R",
             "date": "4 Months ago",
             "rating": 5,
@@ -547,7 +547,7 @@
         "review_f7Bgf8": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Ich bin zufrieden mit Magic Perfume. Der Duft riecht dem Original sehr ähnlich und hält gut. Die Verpackung ist ordentlich und die Flasche sieht schön aus. Insgesamt ist es eine großartige Option, wenn man einen Qualitätsduft zu einem vernünftigen Preis möchte.\"</p>",
+            "content": "<p>\"Ik ben tevreden met Magic Perfume. De geur lijkt sterk op het origineel en blijft goed hangen. De verpakking is netjes en het flesje ziet er mooi uit. Al met al een geweldige optie als je een kwaliteitsgeur voor een redelijke prijs wilt.\"</p>",
             "author": "Alina M",
             "date": "vor 5 Monaten",
             "rating": 5,
@@ -558,7 +558,7 @@
         "review_nghmHV": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Ihre Produkte sind von guter Qualität zu einem sehr erschwinglichen Preis.\"</p>",
+            "content": "<p>\"Hun producten zijn van goede kwaliteit tegen een heel betaalbare prijs.\"</p>",
             "author": "Amanda G",
             "date": "vor 5 Monaten",
             "rating": 4,
@@ -569,7 +569,7 @@
         "review_cTa3jE": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Tolle Düfte, tolle Produkte, keine Probleme.\"</p>",
+            "content": "<p>\"Toffe geuren, toffe producten, geen enkel probleem.\"</p>",
             "author": "Alex S.",
             "date": "6 Months ago",
             "rating": 5,
@@ -580,7 +580,7 @@
         "review_HFDJke": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Das Produkt kam schön verpackt an. Das Parfüm war nicht kaputt, ist nicht ausgelaufen und war in gutem Zustand. Der Duft ist perfekt und roch nicht schlecht. Ich liebe es, hohe Qualität\"</p>",
+            "content": "<p>\"Het product kwam mooi verpakt aan. Het parfum was niet kapot, niet gelekt en in goede staat. De geur is perfect en rook nergens naar. Ik ben er dol op, hoge kwaliteit\"</p>",
             "author": "Roxanne S",
             "date": "vor 5 Monaten",
             "rating": 5,
@@ -591,7 +591,7 @@
         "review_qFgGCb": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Vom Service bis zum Produkt war die Erfahrung phänomenal. Kaufe gerne jederzeit wieder.\"</p>",
+            "content": "<p>\"Van de service tot het product was de ervaring fenomenaal. Koop graag op elk moment weer.\"</p>",
             "author": "Benjamin M",
             "date": "vor 5 Monaten",
             "rating": 5,
@@ -602,7 +602,7 @@
         "review_q7tMe4": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Großartiges Produkt! Super erschwingliche Alternative zu den Markenparfüms. Der Duft hält lange und man bekommt viel für sein Geld\"</p>",
+            "content": "<p>\"Geweldig product! Superbetaalbaar alternatief voor de merkparfums. De geur blijft lang hangen en je krijgt veel waar voor je geld\"</p>",
             "author": "EM",
             "date": "4 Months ago",
             "rating": 5,
@@ -613,7 +613,7 @@
         "review_fYfUH6": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Omg ich liebte es Wow! Genau wie das Original und es hält den ganzen Tag!❤️‍🔥❤️‍🔥\"</p>",
+            "content": "<p>\"Omg ik vond het geweldig, wauw! Precies als het origineel en het blijft de hele dag hangen!❤️‍🔥❤️‍🔥\"</p>",
             "author": "شيطانة YT",
             "date": "4 Months ago",
             "rating": 4,
@@ -624,7 +624,7 @@
         "review_D8Kihj": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Der Duft dieses Parfüms ist super reichhaltig und ich liebe wie schön die Flasche und ihr Design ist.. Ich würde es wirklich wieder verwenden.\"</p>",
+            "content": "<p>\"De geur van dit parfum is supervol en ik vind het flesje en het design echt prachtig.. Ik zou het zeker weer gebruiken.\"</p>",
             "author": "Eliannys Y",
             "date": "vor 7 Monaten",
             "rating": 5,
@@ -635,7 +635,7 @@
         "review_nJkdHr": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Ich mag es! Mag diesen Duft. Guter Duft\"</p>",
+            "content": "<p>\"Ik vind hem leuk! Fijne geur. Lekkere geur\"</p>",
             "author": "Aleksandra M",
             "date": "vor 7 Monaten",
             "rating": 5,
@@ -646,7 +646,7 @@
         "review_bwPbWf": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Tolles Produkt, riecht fantastisch. Ich bekomme immer Leute, die mir Fragen zu meinem Duft stellen und was ich benutze\"</p>",
+            "content": "<p>\"Top product, ruikt fantastisch. Ik krijg steeds mensen die me vragen naar mijn geur en wat ik gebruik\"</p>",
             "author": "Damario R",
             "date": "vor 7 Monaten",
             "rating": 5,
@@ -657,7 +657,7 @@
         "review_hgkJM8": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Tolle Marke und tolle Produkte!\"</p>",
+            "content": "<p>\"Top merk en top producten!\"</p>",
             "author": "Juliana B",
             "date": "4 Months ago",
             "rating": 5,
@@ -668,7 +668,7 @@
         "review_nBaidA": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Nach einer kleinen Verzögerung habe ich endlich meine Magic Perfume-Parfüms und sie sind genau richtig! Ich kann fast nicht glauben, wie genau sie den Originalen entsprechen, zur Referenz habe ich \"Ylang Ylang Rose Jasmine\" und \"Aldehydes Rose Sandalwood\" bekommen, es sind wirklich schöne Düfte\"</p>",
+            "content": "<p>\"Na een kleine vertraging heb ik eindelijk mijn Magic Perfume-parfums en ze zijn precies goed! Ik kan bijna niet geloven hoe exact ze overeenkomen met de originelen. Ter referentie: ik heb \"Ylang Ylang Rose Jasmine\" en \"Aldehydes Rose Sandalwood\" gekregen, het zijn echt mooie geuren\"</p>",
             "author": "Gabriella K",
             "date": "vor 7 Monaten",
             "rating": 5,
@@ -679,7 +679,7 @@
         "review_n6hGqN": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Sehr gute Marke, ich liebe die Verpackung und das Aroma\"</p>",
+            "content": "<p>\"Heel goed merk, ik ben dol op de verpakking en het aroma\"</p>",
             "author": "Rosa B",
             "date": "vor 7 Monaten",
             "rating": 5,
@@ -690,7 +690,7 @@
         "review_NdggfY": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Ich bin ein großer Kölnisch-Wasser-Fan, also bin ich ein wählerischer Typ, wenn es um Klone geht, aber Magic Perfume hat mich komplett überzeugt. Ich habe ursprünglich den Sauvage-Klon auf der Homepage bestellt und den Duft beim Sprühen sofort erkannt. Ich besitze jetzt insgesamt 4 Magic Perfume-Düfte und ich liebe sie alle. Habe dank ihrer Bundle-Angebote 3 weitere auf dem Weg. Wenn du etwas willst, das mit kleinem Budget funktioniert und Designer-Leistung liefert, könnte ich sie nicht mehr empfehlen.\"</p>",
+            "content": "<p>\"Ik ben een groot eau de cologne-fan, dus ik ben kieskeurig als het om klonen gaat, maar Magic Perfume heeft me volledig overtuigd. Ik had oorspronkelijk de Sauvage-kloon op de homepage besteld en herkende de geur meteen bij het sprayen. Ik heb er nu in totaal 4 van Magic Perfume en ik ben dol op allemaal. Dankzij hun bundelaanbiedingen zijn er nog 3 onderweg. Als je iets zoekt dat werkt met een klein budget en designerprestaties levert, kan ik ze niet genoeg aanraden.\"</p>",
             "author": "Sean P",
             "date": "4 Months ago",
             "rating": 5,
@@ -701,7 +701,7 @@
         "review_DLNcRK": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Ich bin sehr zufrieden mit dem Parfüm von dieser Marke, sie haben einen so schönen Duft wie das Original und günstiger, ich werde es definitiv wieder kaufen\"</p>",
+            "content": "<p>\"Ik ben heel tevreden met het parfum van dit merk, ze hebben een net zo mooie geur als het origineel en dan voordeliger. Ik ga het zeker weer kopen\"</p>",
             "author": "Angel",
             "date": "8 Months ago",
             "rating": 5,
@@ -712,7 +712,7 @@
         "review_itaFnE": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Diesen Sommer bekam ich eine Probe von Creed Aventus als Geschenk und ich mochte es wirklich, aber ich konnte das Original nicht kaufen, also suchte ich nach Dupes. Ich fand Magic Perfume und bestellte \"Pineapple Smoke Vanilla\", es kam in etwa einer Woche zu mir und es riecht wirklich gut, auch nah an meiner Originalprobe, sehr zufrieden mit dem Produkt, besonders für den Preis\"</p>",
+            "content": "<p>\"Deze zomer kreeg ik een sample van Creed Aventus cadeau en ik vond hem echt lekker, maar ik kon het origineel niet betalen, dus ging ik op zoek naar dupes. Ik vond Magic Perfume en bestelde \"Pineapple Smoke Vanilla\". Hij kwam binnen ongeveer een week binnen en ruikt echt goed, ook dicht bij mijn originele sample. Heel tevreden met het product, zeker voor de prijs\"</p>",
             "author": "Hwan H",
             "date": "8 Months ago",
             "rating": 5,
@@ -723,7 +723,7 @@
         "review_qLtLjT": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Ich habe ihre 7,5ml Proben-Düfte ausprobiert und zu meiner Überraschung mochte ich sie. Habe eine 2. Bestellung aufgegeben, aber dieses Mal habe ich die größeren Flaschen genommen. Ich muss sagen, ich bekam meine Bestellungen pünktlich und sie lieferten die Düfte, die ich mag!\"</p>",
+            "content": "<p>\"Ik heb hun 7,5 ml probeergeuren geprobeerd en tot mijn verrassing vond ik ze leuk. Ik heb een 2e bestelling geplaatst, maar dit keer de grotere flesjes genomen. Ik moet zeggen: mijn bestellingen kwamen op tijd en ze leverden de geuren waar ik van hou!\"</p>",
             "author": "Lauri E",
             "date": "8 Months ago",
             "rating": 5,
@@ -772,8 +772,8 @@
       "settings": {
         "background_color": "#fcfbf9",
         "heading": "Kundenrezensionen",
-        "review_text": "4,7/5 Sternen basierend auf über 10.000 Bewertungen",
-        "button_text": "Weitere Bewertungen anzeigen",
+        "review_text": "4,7/5 sterren, gebaseerd op meer dan 10.000 beoordelingen",
+        "button_text": "Meer beoordelingen bekijken",
         "button_link": "",
         "padding_top": 72,
         "padding_bottom": 72
@@ -785,9 +785,9 @@
       "name": "Draft Comparison",
       "settings": {
         "background_color": "#ffffff",
-        "title": "Magic Perfume im Vergleich zu anderen Marken",
+        "title": "Magic Perfume vergeleken met andere merken",
         "subtitle": "",
-        "comparison_items": "[{\"feature_name\":\"Hohe Qualität\",\"magic_status\":\"check\",\"other_status\":\"check\"},{\"feature_name\":\"Lang anhaltend\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Je nach<br>Händler\"},{\"feature_name\":\"Preiswert\",\"magic_status\":\"check\",\"other_status\":\"cross\"},{\"feature_name\":\"Dermatologisch getestet\",\"magic_status\":\"check\",\"other_status\":\"check\"},{\"feature_name\":\"Kombinierbare Düfte\",\"magic_status\":\"check\",\"other_status\":\"cross\"},{\"feature_name\":\"Kostenlose 30-Tage-Rückgabe\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Selten\"},{\"feature_name\":\"Schneller Versand\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Je nach<br>Händler\"},{\"feature_name\":\"100% Vegan\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Nicht<br>immer\"},{\"feature_name\":\"Tierversuchsfrei\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Nicht<br>immer\"}]",
+        "comparison_items": "[{\"feature_name\":\"Hoge kwaliteit\",\"magic_status\":\"check\",\"other_status\":\"check\"},{\"feature_name\":\"Langhoudend\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Afhankelijk van<br>verkoper\"},{\"feature_name\":\"Voordelig\",\"magic_status\":\"check\",\"other_status\":\"cross\"},{\"feature_name\":\"Dermatologisch getest\",\"magic_status\":\"check\",\"other_status\":\"check\"},{\"feature_name\":\"Combineerbare geuren\",\"magic_status\":\"check\",\"other_status\":\"cross\"},{\"feature_name\":\"Gratis retour binnen 30 dagen\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Zelden\"},{\"feature_name\":\"Snelle verzending\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Afhankelijk van<br>verkoper\"},{\"feature_name\":\"100% vegan\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Niet<br>altijd\"},{\"feature_name\":\"Dierproefvrij\",\"magic_status\":\"check\",\"other_status\":\"warning\",\"other_text\":\"Niet<br>altijd\"}]",
         "padding_top": 72,
         "padding_bottom": 72
       }
@@ -798,45 +798,45 @@
         "collapsible_row_R4QAWH": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Warum sind Ihre Parfüms so billig?",
+            "heading": "Waarom zijn jullie parfums zo goedkoop?",
             "icon": "none",
-            "row_content": "<p>Wir konzentrieren uns auf den Duftinhalt.<strong>Kein</strong>luxuriöses Flakon,<strong>keine</strong>besondere Verpackung,<strong>keine</strong>teuren Läden &<strong>keine</strong>teuren Influencerdeals ermöglichen dir luxuriös zu riechen, ohne das Budget zu sprengen.</p>",
+            "row_content": "<p>Wij richten ons op de geur zelf.<strong>Geen</strong>luxe flacon,<strong>geen</strong>bijzondere verpakking,<strong>geen</strong>dure winkels en<strong>geen</strong>dure influencerdeals – zo ruik je luxe zonder je budget te overschrijden.</p>",
             "page": ""
           }
         },
         "collapsible_row_VLVdjq": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Ist es ein parfümiertes Wasser?",
+            "heading": "Is het een geparfumeerd water?",
             "icon": "none",
-            "row_content": "<p>Ja, es ist ein parfümiertes Wasser – es enthält bis zu 19 % Essenz. Eau de Toilette zum Beispiel hat zwischen 5 und 8 % und die Essenz liegt bei 41 % aufwärts.</p>",
+            "row_content": "<p>Ja, het is een geparfumeerd water – het bevat tot 19% essence. Een eau de toilette bijvoorbeeld heeft tussen 5 en 8%, en bij parfumextract ligt dat op 41% of hoger.</p>",
             "page": ""
           }
         },
         "collapsible_row_My9pCE": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Wie lange hält das Parfüm?",
+            "heading": "Hoe lang blijft het parfum hangen?",
             "icon": "none",
-            "row_content": "<p>Das Parfüm hält je nach Person unterschiedlich lange an, von 3 bis 8 Stunden für einen ruhigen, intensiven Duft. Nach einer längeren Zeitspanne verblasst der Duft.</p>",
+            "row_content": "<p>Hoe lang het parfum blijft hangen verschilt per persoon, van 3 tot 8 uur voor een rustige, intense geur. Na verloop van tijd vervaagt de geur.</p>",
             "page": ""
           }
         },
         "collapsible_row_tkGTTm": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Unterscheidet sich der inspirierte Duft?",
+            "heading": "Verschilt de geïnspireerde geur van het origineel?",
             "icon": "none",
-            "row_content": "<p>Nein, dieser Duft ist eine perfekte Ergänzung mit dem gleichen Duft.</p>",
+            "row_content": "<p>Nee, deze geur is een perfecte aanvulling met dezelfde geur.</p>",
             "page": ""
           }
         },
         "collapsible_row_46zCcL": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Was bedeutet 19% Parfüm?",
+            "heading": "Wat betekent 19% parfum?",
             "icon": "none",
-            "row_content": "<p>Es bedeutet, dass der Inhalt des Flakons bis zu 19 % Parfümöl enthält. Originalflakons enthalten zwischen 16 und 21 % Parfüm für Eau de Parfum.</p>",
+            "row_content": "<p>Het betekent dat de inhoud van de flacon tot 19% parfumolie bevat. Originele flacons bevatten tussen 16 en 21% parfum voor een eau de parfum.</p>",
             "page": ""
           }
         }
@@ -851,8 +851,8 @@
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "FAQs",
-        "heading": "Haben Sie eine Frage? Wir haben die Antwort.",
-        "subheading": "<p>Hier sind einige der häufigsten Fragen, die wir täglich erhalten. Auf unserer vollständigen FAQ-Seite finden Sie weitere Informationen. Sie können uns auch über unseren Chat oder über unsere Kontaktseite erreichen.</p>",
+        "heading": "Heb je een vraag? Wij hebben het antwoord.",
+        "subheading": "<p>Hier vind je een aantal van de vragen die we dagelijks krijgen. Op onze volledige FAQ-pagina lees je meer. Je kunt ons ook bereiken via de chat of via onze contactpagina.</p>",
         "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "none",

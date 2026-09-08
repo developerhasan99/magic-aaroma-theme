@@ -17,17 +17,17 @@
             Dein Bundle ist fertig!
           </span>
           <span x-show="$store.bundleBuilder.selectedProducts.length < $store.bundleBuilder.bundleLength">
-            <span>Wähle noch </span>
+            <span>Kies nog </span>
             <span x-text="$store.bundleBuilder.bundleLength - $store.bundleBuilder.selectedProducts.length"></span>
             <span x-show="($store.bundleBuilder.bundleLength - $store.bundleBuilder.selectedProducts.length) === 1">
-              Duft aus
+              geur
             </span>
             <span x-show="($store.bundleBuilder.bundleLength - $store.bundleBuilder.selectedProducts.length) > 1">
-              Düfte aus
+              geuren
             </span>
           </span>
         </h2>
-        <p class="my-0 text-center text-sm text-[#6b7280]">Stelle dein Bundle mit
+        <p class="my-0 text-center text-sm text-[#6b7280]">Stel je bundel samen met
           <span x-text="$store.bundleBuilder.bundleLength"></span> Flaschen zusammen</p>
       </div>
       <div x-show="$store.bundleBuilder.selectedProducts.length < $store.bundleBuilder.bundleLength" class="px-3 py-2">
