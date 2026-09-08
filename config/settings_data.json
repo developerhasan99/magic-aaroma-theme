@@ -9,9 +9,9 @@
  */
 {
   "current": {
-    "logo": "shopify://shop_images/magic-perfume-logo.png",
+    "logo": "shopify://shop_images/Aaroma.png",
     "logo_width": 150,
-    "favicon": "shopify://shop_images/favicon-magic-perfume.svg",
+    "favicon": "shopify://shop_images/1_21.png",
     "type_header_font": "figtree_n7",
     "heading_scale": 100,
     "type_body_font": "plus_jakarta_sans_n4",
@@ -203,35 +203,6 @@
         "disabled": false,
         "settings": {}
       },
-      "9864028433945474133": {
-        "type": "shopify://apps/revoq-eu-withdrawal-button/blocks/widerrufsbutton-floating-button/019c3356-2775-7d52-b915-4b0f965005ae",
-        "disabled": true,
-        "settings": {
-          "trigger_label": "-",
-          "hide_trigger": false,
-          "floating_position": "right",
-          "floating_bottom_offset": 20,
-          "floating_side_offset": 20,
-          "trigger_button_size": "medium",
-          "trigger_button_color": "#111827",
-          "trigger_button_text_color": "#ffffff",
-          "heading_text": "-",
-          "show_section_heading": true,
-          "show_subheading": true,
-          "subheading_text": "-",
-          "name_placeholder": "-",
-          "order_placeholder": "-",
-          "show_order_hint": true,
-          "show_email_hint": true,
-          "show_privacy_notice": true,
-          "text_color": "#111827",
-          "secondary_text_color": "#6b7280",
-          "card_shape": "rounded",
-          "input_shape": "rounded",
-          "button_color": "#111827",
-          "button_text_color": "#ffffff"
-        }
-      },
       "8218531531362863771": {
         "type": "shopify://apps/kite-discount-free-gift/blocks/app-embed/2c7302c4-455d-4078-a829-48563ba26089",
         "disabled": false,
@@ -247,18 +218,8 @@
         "disabled": false,
         "settings": {}
       },
-      "10912811961125325620": {
-        "type": "shopify://apps/absolutely/blocks/absolutely_extension/121741f7-5296-410e-8ae4-71174169eced",
-        "disabled": false,
-        "settings": {}
-      },
       "18348123794867637515": {
         "type": "shopify://apps/wiz/blocks/app-embed/240b6bc0-e686-4c07-8fde-eb7ee1949893",
-        "disabled": false,
-        "settings": {}
-      },
-      "687748571449776701": {
-        "type": "shopify://apps/voluum/blocks/app-block/6bb81c29-e33c-42c4-b756-dd9ebccb13b2",
         "disabled": false,
         "settings": {}
       },
