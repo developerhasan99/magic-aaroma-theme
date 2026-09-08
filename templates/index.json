@@ -297,7 +297,7 @@
         "collection_gRbYPe": {
           "type": "collection",
           "settings": {
-            "tab_title": "🔥 BESTSELLERS",
+            "tab_title": "🔥 Bestsellers",
             "collection": "bestsellers",
             "button_text": "Alles bekijken"
           }
@@ -305,7 +305,7 @@
         "collection_xgUpzQ": {
           "type": "collection",
           "settings": {
-            "tab_title": "VOOR HAAR",
+            "tab_title": "Herengeuren",
             "collection": "alle-damesgeuren",
             "button_text": "Alles bekijken"
           }
@@ -313,7 +313,7 @@
         "collection_3WBTm3": {
           "type": "collection",
           "settings": {
-            "tab_title": "VOOR HEM",
+            "tab_title": "Damesgeuren",
             "collection": "avondgeuren-heren",
             "button_text": "Alles bekijken"
           }
