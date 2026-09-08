@@ -227,7 +227,7 @@
 }
 
 @media screen and (max-width: 749px) {
-  .disclosure__list-wrapper.country-selector:not([hidden]) + .country-selector__overlay:empty {
+  .disclosure__list-wrapper.country-selector_native:not([hidden]) + .country-selector__overlay:empty {
     display: block;
   }
 
@@ -242,7 +242,7 @@
     animation: animateLocalization var(--duration-default) ease;
   }
 
-  .disclosure__list-wrapper.country-selector {
+  .disclosure__list-wrapper.country-selector_native {
     position: fixed;
     bottom: -1rem;
     left: 0;
