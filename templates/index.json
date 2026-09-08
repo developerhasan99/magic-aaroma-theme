@@ -294,7 +294,7 @@
           "type": "collection",
           "settings": {
             "tab_title": "🔥 BESTSELLERS",
-            "collection": "best-sellers",
+            "collection": "bestsellers",
             "button_text": "Alles bekijken"
           }
         },
@@ -302,7 +302,7 @@
           "type": "collection",
           "settings": {
             "tab_title": "VOOR HAAR",
-            "collection": "fuer-frauen",
+            "collection": "alle-damesgeuren",
             "button_text": "Alles bekijken"
           }
         },
@@ -310,7 +310,7 @@
           "type": "collection",
           "settings": {
             "tab_title": "VOOR HEM",
-            "collection": "fuer-maenner",
+            "collection": "avondgeuren-heren",
             "button_text": "Alles bekijken"
           }
         }
