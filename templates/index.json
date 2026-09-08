@@ -36,8 +36,6 @@
       "name": "Homepage Hero",
       "settings": {
         "background_color": "#ffffff",
-        "background_image": "shopify://shop_images/magic_header_1.png",
-        "mobile_background_image": "shopify://shop_images/magic_header_mobile_1.jpg",
         "title": "Ruik luxe – zonder schuldgevoel.",
         "subtitle": "Geurtweelingen van premiumkwaliteit",
         "button_text": "Vind de geur die jou definieert.",
@@ -120,8 +118,6 @@
       "name": "Image and Text",
       "settings": {
         "background_color": "#000000",
-        "bg_image": "shopify://shop_images/ChatGPT_Image_Feb_3_2026_04_24_58_PM.png",
-        "bg_mobile_image": "shopify://shop_images/ChatGPT_Image_Feb_3_2026_04_34_48_PM.png",
         "rounded_image": true,
         "image_placement": "1",
         "mobile_image_placement": "under_heading",
@@ -143,7 +139,6 @@
         "perks_dXcKFz": {
           "type": "perks",
           "settings": {
-            "perk_image": "shopify://shop_images/Screenshot_2026-02-03_at_12.00.15_PM.png",
             "perk_title": "Gratis verzending vanaf € 55",
             "perk_content": "Alleen deze week"
           }
@@ -151,7 +146,6 @@
         "perks_x8n9DF": {
           "type": "perks",
           "settings": {
-            "perk_image": "shopify://shop_images/Screenshot_2026-02-03_at_12.04.49_PM.png",
             "perk_title": "Loyaliteitskorting voor vaste klanten",
             "perk_content": "Cadeaubonnen tot € 100"
           }
@@ -159,7 +153,6 @@
         "perks_yTdgqz": {
           "type": "perks",
           "settings": {
-            "perk_image": "shopify://shop_images/Screenshot_2026-02-03_at_12.05.39_PM.png",
             "perk_title": "Gratis cadeaus – testers",
             "perk_content": "Met persoonlijke boodschap (tot 100 tekens)"
           }
@@ -167,7 +160,6 @@
         "perks_7zj6gB": {
           "type": "perks",
           "settings": {
-            "perk_image": "shopify://shop_images/Screenshot_2026-02-03_at_12.07.45_PM.png",
             "perk_title": "Persoonlijk advies",
             "perk_content": "Dagelijks van 8 tot 20 uur"
           }
@@ -194,7 +186,7 @@
         "background_color": "#f7f7f7",
         "heading": "Nieuwe geuren",
         "subheading": "",
-        "collection": "neue-dufte",
+        "collection": "bestseller-singles",
         "show_all_button_text": "Alle bestsellers bekijken",
         "padding_top": 72,
         "padding_bottom": 72
@@ -207,7 +199,7 @@
         "background_color": "#f7f7f7",
         "heading": "BESTSELLERS",
         "subheading": "",
-        "collection": "best-sellers",
+        "collection": "bestseller-2",
         "show_all_button_text": "Alle bestsellers bekijken",
         "padding_top": 72,
         "padding_bottom": 72
@@ -415,7 +407,6 @@
         "review_8jw9Px": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/Camila_Sena_Oliveira_1.webp",
             "content": "<p>„Dit was mijn eerste bestelling hier en ik ben echt onder de indruk. Mijn parfum koop ik vanaf nu nergens anders meer. Ik had nog nooit een geur-dupe gevonden die echt authentiek ruikt en ook steeds even goed blijft.“</p>",
             "author": "Sven Jansen",
             "date": "1 dag geleden",
@@ -427,10 +418,8 @@
         "review_UPwGBF": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/2026-07-02_16h41_42.webp",
             "content": "<p>„Eerlijk, een van de beste geuren die ik in jaren heb geroken. De noten zijn gewoon waanzinnig goed. Deze blijft sowieso vast in mijn collectie.“</p>",
             "author": "Emma de Vries",
-            "author_image": "shopify://shop_images/magic_ugc_female_01.webp",
             "date": "2 dagen geleden",
             "rating": 4,
             "show_verified_badge": true,
@@ -440,7 +429,6 @@
         "review_XfwcAY": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/2026-07-02_16h55_49.webp",
             "content": "<p>„Alle drie de geuren die ik heb besteld ruiken echt heel goed en blijven ook lang hangen. De geuren komen echt dicht bij de originelen. Het enige was de levertijd, die wat langer duurde. Maar heel eerlijk – ik heb toch meteen weer besteld 😄 Je moet gewoon een beetje geduld hebben.“</p>",
             "author": "Clara P.",
             "date": "2 dagen geleden",
@@ -463,7 +451,6 @@
         "review_RnXXg9": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/2026-07-02_16h58_13.webp",
             "content": "<p>„Wist eerst niet goed wat ik kon verwachten, maar de geur heeft me echt positief verrast. Ruikt superfris en komt behoorlijk dicht bij Aventus. Blijft netjes hangen en de prijs is gewoon een stuk beter.“</p>",
             "author": "Michael T.",
             "date": "2 dagen geleden",
@@ -475,7 +462,6 @@
         "review_aThE8h": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/magic_175_review.png",
             "content": "<p>„Een van mijn absolute favoriete geuren. Was supersnel bezorgd en ruikt gewoon echt lekker.“</p>",
             "author": "Jonas Hendriks",
             "date": "2 dagen geleden",
@@ -509,10 +495,8 @@
         "review_wbXdLy": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/261_revie.webp",
             "content": "<p>„Was eerst onzeker door de prijs, maar de kwaliteit heeft me echt overtuigd. Zou ik zo weer kopen.“</p>",
             "author": "Thijs Bakker",
-            "author_image": "shopify://shop_images/magic_ugc_male_01.webp",
             "date": "vor 2 Monaten",
             "rating": 5,
             "show_verified_badge": false,
@@ -522,7 +506,6 @@
         "review_y8tq9b": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/2026-07-02_16h41_42.webp",
             "content": "<p>\"Is perfect en prachtig 🥰🥰🥰\"</p>",
             "author": "Lidis A.",
             "date": "vor 2 Monaten",
@@ -545,7 +528,6 @@
         "review_639hbA": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/2026-07-22_16h43_29.png",
             "content": "<p>„De parfums ruiken gewoon perfect en de geuren blijven echt lang hangen. Echt topkwaliteit.“<br/></p>",
             "author": "Kamila G.",
             "date": "vor 3 Monaten",
@@ -557,7 +539,6 @@
         "review_G3HzBj": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/Mounissa_Soilihi.webp",
             "content": "<p>\"Ruikt precies als Luna Rossa Carbon, maar veel voordeliger. Niet te geloven hoe dichtbij het komt.\"</p>",
             "author": "Robinson D.",
             "date": "vor 4 Monaten",
@@ -569,7 +550,6 @@
         "review_KK6jhW": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/magic_revie.png",
             "content": "<p>„Zo'n geur waarbij je je meteen fris en verzorgd voelt. Niet te opdringerig, gewoon precies goed. 👌“</p>",
             "author": "Michael R.",
             "date": "vor 4 Monaten",
@@ -581,7 +561,6 @@
         "review_HjyT3p": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/Daria_Kononenko_2.webp",
             "content": "<p>„Ik ken Creed Aventus al jaren en moet eerlijk zeggen: dit is tot nu toe een van de beste dupes die ik heb gevonden. De ananas- en vanillenoten komen echt goed naar voren en voor die prijs kun je echt niks zeggen.“</p>",
             "author": "Alvarez P.",
             "date": "vor 4 Monaten",
@@ -593,7 +572,6 @@
         "review_6Bhttk": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/Carolina_Maresca_2.webp",
             "content": "<p>\"Het product kwam mooi verpakt aan. Het parfum was niet kapot, niet gelekt en in goede staat. De geur is perfect en rook nergens naar. Ik ben er dol op, hoge kwaliteit\"</p>",
             "author": "Anne E.",
             "date": "vor 4 Monaten",
@@ -616,7 +594,6 @@
         "review_JRzxRP": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/2026-07-02_16h57_29.webp",
             "content": "<p>„Ben echt tevreden met Magic Perfume. De geur komt aardig dicht bij het origineel en blijft bij mij ook echt goed hangen. De verpakking was netjes en het flesje maakt ook een hoogwaardige indruk. Voor die prijs sowieso een heel goed alternatief.“</p>",
             "author": "Alina M",
             "date": "vor 5 Monaten",
@@ -639,7 +616,6 @@
         "review_aietxq": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/Anastasiia_Komisarova.webp",
             "content": "<p>\"Toffe geuren, toffe producten, geen enkel probleem.\"</p>",
             "author": "Alex S.",
             "date": "vor 6 Monaten",
