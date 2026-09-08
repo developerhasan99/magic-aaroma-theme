@@ -286,9 +286,9 @@
         "background_color": "#f7f7f7",
         "title": "Dit vind je misschien ook mooi",
         "description": "",
-        "collection": "best-sellers",
+        "collection": "bestsellers",
         "button_text": "Alles bekijken",
-        "button_link": "shopify://collections/best-sellers",
+        "button_link": "shopify://collections/bestseller-singles",
         "padding_top": 0,
         "padding_bottom": 72
       }
@@ -347,7 +347,6 @@
       "name": "Scent Breakdown",
       "settings": {
         "background_color": "#f7f7f7",
-        "image": "shopify://shop_images/23729_482_f560cff9-0b8f-4356-a8d5-c212222d8106-scaled.jpg",
         "padding_top": 72,
         "padding_bottom": 72
       }
@@ -521,7 +520,6 @@
     },
     "massive_review_nBEgXq": {
       "type": "massive-review",
-      "disabled": true,
       "blocks": {
         "review_gF6wKD": {
           "type": "review",
@@ -955,6 +953,7 @@
         "review_nJELg9",
         "review_kqR3XT"
       ],
+      "disabled": true,
       "settings": {
         "background_color": "#fcfbf9",
         "heading": "Vertrouwd door 10.000+ klanten.",
