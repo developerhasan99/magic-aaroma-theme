@@ -218,50 +218,50 @@
     "feature_heighlights_fCUG3E": {
       "type": "feature-heighlights",
       "blocks": {
-        "perks_MLz9YK": {
+        "perks_CBpKqp": {
           "type": "perks",
           "settings": {
-            "perk_image": "shopify://shop_images/Screenshot_2026-02-03_at_12.00.15_PM.png",
-            "perk_title": "Gratis verzending bij alle bestellingen boven € 50!",
-            "perk_content": "Alleen deze week"
+            "perk_image": "shopify://shop_images/shipping.png",
+            "perk_title": "Gratis bezorging",
+            "perk_content": "Vanaf €55 — binnen 48 uur verzonden, met tracking."
           }
         },
-        "perks_NV4H3P": {
+        "perks_Ynh4gw": {
           "type": "perks",
           "settings": {
-            "perk_image": "shopify://shop_images/Screenshot_2026-02-03_at_12.04.49_PM.png",
-            "perk_title": "Speciale kortingen voor vaste klanten",
-            "perk_content": "Cadeaubonnen tot € 100"
+            "perk_image": "shopify://shop_images/icons_quality.png",
+            "perk_title": "60 dagen garantie",
+            "perk_content": "Niet tevreden? Geld terug. Geen gedoe."
           }
         },
-        "perks_qWY7Uy": {
+        "perks_Cj3EAR": {
           "type": "perks",
           "settings": {
-            "perk_image": "shopify://shop_images/Screenshot_2026-02-03_at_12.05.39_PM.png",
-            "perk_title": "Kostenlose Geschenkverpackung",
-            "perk_content": "Mit 100 Buchstaben benutzerdefinierte Notiz"
+            "perk_image": "shopify://shop_images/icons_guarantee.png",
+            "perk_title": "EU-gecertificeerd",
+            "perk_content": "Gemaakt in gecertificeerde Europese fabrieken."
           }
         },
-        "perks_HKnHJ8": {
+        "perks_iX4iTY": {
           "type": "perks",
           "settings": {
-            "perk_image": "shopify://shop_images/Screenshot_2026-02-03_at_12.07.45_PM.png",
-            "perk_title": "Deskundige klantenservice",
-            "perk_content": "8:00 - 20:00, 7 dagen per week"
+            "perk_image": "shopify://shop_images/icons_time.png",
+            "perk_title": "12+ uur lang aanhoudend",
+            "perk_content": "Blijft de hele dag hangen"
           }
         }
       },
       "block_order": [
-        "perks_MLz9YK",
-        "perks_NV4H3P",
-        "perks_qWY7Uy",
-        "perks_HKnHJ8"
+        "perks_CBpKqp",
+        "perks_Ynh4gw",
+        "perks_Cj3EAR",
+        "perks_iX4iTY"
       ],
       "name": "Feature Highlights",
       "settings": {
         "background_color": "#ffffff",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 32,
+        "padding_bottom": 32
       }
     },
     "stacks_up_DMztUX": {

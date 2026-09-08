@@ -136,47 +136,51 @@
     "feature_heighlights_EpJcyT": {
       "type": "feature-heighlights",
       "blocks": {
-        "perks_dXcKFz": {
+        "perks_CBpKqp": {
           "type": "perks",
           "settings": {
-            "perk_title": "Gratis verzending vanaf € 55",
-            "perk_content": "Alleen deze week"
+            "perk_image": "shopify://shop_images/shipping.png",
+            "perk_title": "Gratis bezorging",
+            "perk_content": "Vanaf €55 — binnen 48 uur verzonden, met tracking."
           }
         },
-        "perks_x8n9DF": {
+        "perks_Ynh4gw": {
           "type": "perks",
           "settings": {
-            "perk_title": "Loyaliteitskorting voor vaste klanten",
-            "perk_content": "Cadeaubonnen tot € 100"
+            "perk_image": "shopify://shop_images/icons_quality.png",
+            "perk_title": "60 dagen garantie",
+            "perk_content": "Niet tevreden? Geld terug. Geen gedoe."
           }
         },
-        "perks_yTdgqz": {
+        "perks_Cj3EAR": {
           "type": "perks",
           "settings": {
-            "perk_title": "Gratis cadeaus – testers",
-            "perk_content": "Met persoonlijke boodschap (tot 100 tekens)"
+            "perk_image": "shopify://shop_images/icons_guarantee.png",
+            "perk_title": "EU-gecertificeerd",
+            "perk_content": "Gemaakt in gecertificeerde Europese fabrieken."
           }
         },
-        "perks_7zj6gB": {
+        "perks_iX4iTY": {
           "type": "perks",
           "settings": {
-            "perk_title": "Persoonlijk advies",
-            "perk_content": "Dagelijks van 8 tot 20 uur"
+            "perk_image": "shopify://shop_images/icons_time.png",
+            "perk_title": "12+ uur lang aanhoudend",
+            "perk_content": "Blijft de hele dag hangen"
           }
         }
       },
       "block_order": [
-        "perks_dXcKFz",
-        "perks_x8n9DF",
-        "perks_yTdgqz",
-        "perks_7zj6gB"
+        "perks_CBpKqp",
+        "perks_Ynh4gw",
+        "perks_Cj3EAR",
+        "perks_iX4iTY"
       ],
       "disabled": true,
       "name": "Feature Highlights",
       "settings": {
         "background_color": "#ffffff",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 32,
+        "padding_bottom": 32
       }
     },
     "popular_products_3gqnEi": {

@@ -287,50 +287,50 @@
     "feature_heighlights_fCUG3E": {
       "type": "feature-heighlights",
       "blocks": {
-        "perks_MLz9YK": {
+        "perks_CBpKqp": {
           "type": "perks",
           "settings": {
-            "perk_image": "shopify://shop_images/icons_eu_1.webp",
-            "perk_title": "Gemaakt in de EU",
-            "perk_content": "Vegan, dierproefvrij en gemaakt in de EU."
+            "perk_image": "shopify://shop_images/shipping.png",
+            "perk_title": "Gratis bezorging",
+            "perk_content": "Vanaf €55 — binnen 48 uur verzonden, met tracking."
           }
         },
-        "perks_NV4H3P": {
+        "perks_Ynh4gw": {
           "type": "perks",
           "settings": {
-            "perk_image": "shopify://shop_images/icons_quality_1.webp",
-            "perk_title": "Franse geurkwaliteit",
-            "perk_content": "Met dezelfde zorg gemaakt als toonaangevende luxemerken."
+            "perk_image": "shopify://shop_images/icons_quality.png",
+            "perk_title": "60 dagen garantie",
+            "perk_content": "Niet tevreden? Geld terug. Geen gedoe."
           }
         },
-        "perks_qWY7Uy": {
+        "perks_Cj3EAR": {
           "type": "perks",
           "settings": {
-            "perk_image": "shopify://shop_images/icons_guarantee_1.webp",
-            "perk_title": "60 dagen niet-goed-geld-terug",
-            "perk_content": "Niet overtuigd? Stuur je bestelling binnen 60 dagen terug en je krijgt je geld terug."
+            "perk_image": "shopify://shop_images/icons_guarantee.png",
+            "perk_title": "EU-gecertificeerd",
+            "perk_content": "Gemaakt in gecertificeerde Europese fabrieken."
           }
         },
-        "perks_HKnHJ8": {
+        "perks_iX4iTY": {
           "type": "perks",
           "settings": {
-            "perk_image": "shopify://shop_images/icons_time_1.webp",
-            "perk_title": "Langhoudende geur",
-            "perk_content": "Blijft meer dan 12 uur op de huid (sommigen ervaren zelfs langer)."
+            "perk_image": "shopify://shop_images/icons_time.png",
+            "perk_title": "12+ uur lang aanhoudend",
+            "perk_content": "Blijft de hele dag hangen"
           }
         }
       },
       "block_order": [
-        "perks_MLz9YK",
-        "perks_NV4H3P",
-        "perks_qWY7Uy",
-        "perks_HKnHJ8"
+        "perks_CBpKqp",
+        "perks_Ynh4gw",
+        "perks_Cj3EAR",
+        "perks_iX4iTY"
       ],
       "name": "Feature Highlights",
       "settings": {
         "background_color": "#ffffff",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 32,
+        "padding_bottom": 32
       }
     },
     "scent_breakdown_pqKDL9": {
