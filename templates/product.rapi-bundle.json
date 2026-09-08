@@ -416,433 +416,445 @@
     "massive_review_x3kr6P": {
       "type": "massive-review",
       "blocks": {
-        "review_YE8xbk": {
+        "review_gF6wKD": {
           "type": "review",
+          "disabled": true,
           "settings": {
-            "content": "<p>„Dit was mijn eerste bestelling hier en ik ben echt onder de indruk. Mijn parfum koop ik vanaf nu nergens anders meer. Ik had nog nooit een geur-dupe gevonden die echt authentiek ruikt en ook steeds even goed blijft.“</p>",
-            "author": "Sven Jansen",
+            "review_image": "shopify://shop_images/261_revie.png",
+            "content": "<p>\"Dit is mijn eerste aankoop en ik ben al om. Ik koop nooit meer elders parfum. Ik zocht al lang naar een alternatief dat echt authentiek ruikt - dit is hem.\"</p>",
+            "author": "Killian P.",
             "date": "1 dag geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "bergamot-sage-cedar-50-ml"
           }
         },
-        "review_pjzVtk": {
+        "review_ByDgLX": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/magic_ugc_female_01.webp",
-            "content": "<p>„Eerlijk, een van de beste geuren die ik in jaren heb geroken. De noten zijn gewoon waanzinnig goed. Deze blijft sowieso vast in mijn collectie.“</p>",
-            "author": "Emma de Vries",
-            "author_image": "shopify://shop_images/magic_ugc_female_01.webp",
+            "review_image": "shopify://shop_images/2026-07-02_16h41_42.png",
+            "content": "<p>\"Dit is het beste parfum dat ik in tijden heb geroken. De geuraccorden raken me elke keer opnieuw. Dit blijft in mijn vaste collectie.\"</p>",
+            "author": "Jenniffer W.",
             "date": "2 dagen geleden",
             "rating": 4,
             "show_verified_badge": true,
             "product": ""
           }
         },
-        "review_cCdWNE": {
+        "review_dKt8hn": {
           "type": "review",
+          "disabled": true,
           "settings": {
-            "content": "<p>„Alle drie de geuren die ik heb besteld ruiken echt heel goed en blijven ook lang hangen. De geuren komen echt dicht bij de originelen. Het enige was de levertijd, die wat langer duurde. Maar heel eerlijk – ik heb toch meteen weer besteld 😄 Je moet gewoon een beetje geduld hebben.“</p>",
+            "review_image": "shopify://shop_images/2026-07-02_16h55_49.png",
+            "content": "<p>\"Alle drie de geuren die ik heb ontvangen zijn erg goed. Blijven lang hangen en ruiken zoals ze zouden moeten. Ik was alleen ontevreden over de tijd die het kostte om ze te ontvangen. Maar eerlijk gezegd heb ik een tweede bestelling geplaatst, dus verwacht gewoon een wachttijd. Lol!<br/>\"</p>",
             "author": "Clara P.",
             "date": "2 dagen geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "apple-cinnamon-sandalwood"
           }
         },
-        "review_mVXcif": {
+        "review_VrkHXh": {
           "type": "review",
           "settings": {
-            "content": "<p>„Ik heb eindeloos gezocht naar geuren die hoogwaardig ruiken en ook lang blijven hangen. Precies zo'n geur zocht ik.“</p>",
-            "author": "Daan Visser",
+            "review_image": "shopify://shop_images/Mounissa_Soilihi.jpg",
+            "content": "<p>\"Ik zocht al jaren een geur die luxe ruikt en lang blijft hangen. Dit is precies wat ik zocht.\"</p>",
+            "author": "Tiana N.",
             "date": "2 dagen geleden",
             "rating": 4,
             "show_verified_badge": true,
-            "product": ""
+            "product": "fresh-escape-premium"
           }
         },
-        "review_mVgcRB": {
+        "review_wczQWw": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/magic_ugc_male_02.webp",
-            "content": "<p>„Wist eerst niet goed wat ik kon verwachten, maar de geur heeft me echt positief verrast. Ruikt superfris en komt behoorlijk dicht bij Aventus. Blijft netjes hangen en de prijs is gewoon een stuk beter.“</p>",
+            "review_image": "shopify://shop_images/Camila_Sena_Oliveira_1.jpg",
+            "content": "<p>\"Ik wist niet wat ik moest verwachten, maar ben aangenaam verrast. Super fris en heel dicht bij Aventus. Blijft goed hangen en de prijs is veel beter.\"</p>",
             "author": "Michael T.",
-            "author_image": "shopify://shop_images/magic_ugc_male_02.webp",
             "date": "2 dagen geleden",
             "rating": 4,
             "show_verified_badge": true,
-            "product": ""
+            "product": "pineapple-smoke-vanilla-50-ml-1-7-fl-oz"
           }
         },
-        "review_er43HU": {
+        "review_jNFxYP": {
           "type": "review",
           "settings": {
-            "content": "<p>„Een van mijn absolute favoriete geuren. Was supersnel bezorgd en ruikt gewoon echt lekker.“</p>",
-            "author": "Jonas Hendriks",
+            "content": "<p>\"Een van mijn favoriete geuren. Snel bezorgd. Heerlijk.\"</p>",
+            "author": "Alex W.",
             "date": "2 dagen geleden",
             "rating": 5,
             "show_verified_badge": true,
             "product": ""
           }
         },
-        "review_HtrkLp": {
+        "review_9fWXGn": {
           "type": "review",
           "settings": {
-            "content": "<p>„Mijn vriendin zei meteen dat ik lekker rook 😄 Sindsdien gebruik ik hem bijna elke dag.“</p>",
-            "author": "Lukas Schneider",
+            "review_image": "shopify://shop_images/Daria_Kononenko_2.jpg",
+            "content": "<p>\"Ik ben dol op deze parfums. Elk parfum dat ik heb ontvangen ruikt geweldig. Sommige vind ik zelfs beter dan het origineel.\"</p>",
+            "author": "Christine N.",
             "date": "5 dagen geleden",
             "rating": 4,
             "show_verified_badge": false,
             "product": ""
           }
         },
-        "review_cpYCMR": {
+        "review_iPjTCz": {
           "type": "review",
+          "disabled": true,
           "settings": {
-            "content": "<p>„In het begin was ik wat bezorgd omdat de levering vertraagd was. Maar toen het parfum binnen was en de geur zich eenmaal had gezet – wauw, gewoon ongelofelijk goed.“</p>",
+            "review_image": "shopify://shop_images/Celia_Sahki_1.jpg",
+            "content": "<p>\"In het begin was ik bezorgd omdat de verzending iets vertraagd was, maar toen ik ze eenmaal ontving, was ik verbaasd over de geur. Zodra het zich zet, is het gewoonweg geweldig.\"</p>",
             "author": "Lionel M.",
             "date": "7 dagen geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "4x-100ml-perfume-bottles"
           }
         },
-        "review_9A3Vkt": {
+        "review_myTAe8": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/magic_ugc_male_01.webp",
-            "content": "<p>„Was eerst onzeker door de prijs, maar de kwaliteit heeft me echt overtuigd. Zou ik zo weer kopen.“</p>",
-            "author": "Thijs Bakker",
-            "author_image": "shopify://shop_images/magic_ugc_male_01.webp",
-            "date": "vor 2 Monaten",
+            "content": "<p>\"Het ruikt erg lekker, maar blijft niet zo lang hangen als zou moeten\"</p>",
+            "author": "Terence M.",
+            "date": "2 maanden geleden",
             "rating": 5,
             "show_verified_badge": false,
             "product": ""
           }
         },
-        "review_aRdYJg": {
+        "review_DzktgE": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Is perfect en prachtig 🥰🥰🥰\"</p>",
+            "review_image": "shopify://shop_images/2026-07-02_16h57_29.png",
+            "content": "<p>\"Perfect en prachtig.\"</p>",
             "author": "Lidis A.",
-            "date": "vor 2 Monaten",
+            "date": "2 maanden geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "saffron-rose-amber-50-ml-1-7-fl-oz"
           }
         },
-        "review_RACQeU": {
+        "review_YpX9h9": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Ruikt heel lekker, ik was meteen verkocht\"</p>",
+            "review_image": "shopify://shop_images/Carolina_Maresca_2.png",
+            "content": "<p>\"Heerlijke geur. Ik ben er dol op.\"</p>",
             "author": "Castillo B.",
-            "date": "vor 3 Monaten",
+            "date": "3 maanden geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "tryscent-collection"
           }
         },
-        "review_gB8CCL": {
+        "review_NBGz7p": {
           "type": "review",
           "settings": {
-            "content": "<p>„De parfums ruiken gewoon perfect en de geuren blijven echt lang hangen. Echt topkwaliteit.“<br/></p>",
+            "review_image": "shopify://shop_images/Aleksandra_Kosin.jpg",
+            "content": "<p>\"Heerlijk geurende parfums. De geuren blijven heel lang hangen. Uitstekende kwaliteit.\"</p>",
             "author": "Kamila G.",
-            "date": "vor 3 Monaten",
+            "date": "3 maanden geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "6x-30ml-perfume-bottles"
           }
         },
-        "review_ehGRfn": {
+        "review_MBb63N": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Ruikt precies als Luna Rossa Carbon, maar veel voordeliger. Niet te geloven hoe dichtbij het komt.\"</p>",
+            "content": "<p>\"Ruikt precies als Luna Rossa Carbon, voor een fractie van de prijs. Ik kan niet geloven hoe dicht het bij het origineel zit.\"</p>",
             "author": "Robinson D.",
-            "date": "vor 4 Monaten",
+            "date": "4 maanden geleden",
             "rating": 4,
             "show_verified_badge": false,
             "product": ""
           }
         },
-        "review_Rqd3wd": {
+        "review_hAJXhk": {
           "type": "review",
           "settings": {
-            "content": "<p>„Zo'n geur waarbij je je meteen fris en verzorgd voelt. Niet te opdringerig, gewoon precies goed. 👌“</p>",
+            "review_image": "shopify://shop_images/2026-07-02_16h58_13.png",
+            "content": "<p>\"De geur waardoor je je verzorgd voelt. Niet te zwaar, precies goed.\"</p>",
             "author": "Michael R.",
-            "date": "vor 4 Monaten",
+            "date": "4 maanden geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "alpha-oil"
           }
         },
-        "review_Hr7HnX": {
+        "review_rad8A6": {
           "type": "review",
           "settings": {
-            "content": "<p>„Ik ken Creed Aventus al jaren en moet eerlijk zeggen: dit is tot nu toe een van de beste dupes die ik heb gevonden. De ananas- en vanillenoten komen echt goed naar voren en voor die prijs kun je echt niks zeggen.“</p>",
+            "content": "<p>\"Ik draag al jaren Creed Aventus. Dit is het beste alternatief dat ik ooit heb gevonden, voor een fractie van de prijs. De combinatie van ananas en vanille klopt perfect.\"</p>",
             "author": "Alvarez P.",
-            "date": "vor 4 Monaten",
+            "date": "4 maanden geleden",
             "rating": 4,
             "show_verified_badge": true,
-            "product": ""
+            "product": "pineapple-smoke-vanilla-50-ml-1-7-fl-oz"
           }
         },
-        "review_YhxM98": {
+        "review_BLYVmX": {
           "type": "review",
           "settings": {
-            "review_image": "shopify://shop_images/magic_ugc_female_02.webp",
-            "content": "<p>\"Het product kwam mooi verpakt aan. Het parfum was niet kapot, niet gelekt en in goede staat. De geur is perfect en rook nergens naar. Ik ben er dol op, hoge kwaliteit\"</p>",
+            "review_image": "shopify://shop_images/2026-07-02_16h49_01.png",
+            "content": "<p>\"Het product was netjes verpakt. Het parfum was niet gebroken, lekte niet en verkeerde in goede staat. De geur is perfect en rook niet slecht. Ik ben er dol op, hoge kwaliteit\"</p>",
             "author": "Anne E.",
-            "author_image": "shopify://shop_images/magic_ugc_female_02.webp",
-            "date": "vor 4 Monaten",
+            "date": "4 maanden geleden",
             "rating": 4,
             "show_verified_badge": true,
-            "product": ""
+            "product": "azure-dreams-pure"
           }
         },
-        "review_eciJLK": {
+        "review_eerxBx": {
           "type": "review",
           "settings": {
-            "content": "<p>„Prachtige geur die echt lang blijft hangen. Lekker zoet en warm. De levering ging ook supersnel. Ik ga zeker weer bestellen.“</p>",
+            "review_image": "shopify://shop_images/Anastasiia_Komisarova.jpg",
+            "content": "<p>\"Prachtige geur. Lang aanhoudend. Zoet en warm. Snel geleverd. Ik bestel zeker opnieuw.\"</p>",
             "author": "Lucy R",
-            "date": "vor 4 Monaten",
+            "date": "4 maanden geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "6x-30ml-perfume-bottles"
           }
         },
-        "review_DUqExk": {
+        "review_GJGq9n": {
           "type": "review",
           "settings": {
-            "content": "<p>„Ben echt tevreden met Magic Perfume. De geur komt aardig dicht bij het origineel en blijft bij mij ook echt goed hangen. De verpakking was netjes en het flesje maakt ook een hoogwaardige indruk. Voor die prijs sowieso een heel goed alternatief.“</p>",
+            "content": "<p>\"Blij met Aaroma. De geur lijkt sterk op het origineel en blijft goed hangen. Nette verpakking, mooi flesje. Uitstekende keuze voor wie kwaliteit zoekt voor een eerlijke prijs.\"</p>",
             "author": "Alina M",
-            "date": "vor 5 Monaten",
+            "date": "5 maanden geleden",
             "rating": 5,
             "show_verified_badge": false,
-            "product": ""
+            "product": "black-berry-vanilla-musk"
           }
         },
-        "review_FfmhdU": {
+        "review_UWgaKy": {
           "type": "review",
           "settings": {
-            "content": "<p>„De producten hebben echt een topkwaliteit, en dat voor een heel goede prijs.“</p>",
+            "content": "<p>\"Goede kwaliteit voor een heel betaalbare prijs.\"</p>",
             "author": "Amanda G",
-            "date": "vor 5 Monaten",
+            "date": "5 maanden geleden",
             "rating": 4,
             "show_verified_badge": true,
-            "product": ""
+            "product": "amber-glow"
           }
         },
-        "review_HFYTjN": {
+        "review_pqPKKr": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Toffe geuren, toffe producten, geen enkel probleem.\"</p>",
+            "review_image": "shopify://shop_images/2026-07-02_16h48_27.png",
+            "content": "<p>\"Geweldige geuren, geweldige producten. Alles vlekkeloos.\"</p>",
             "author": "Alex S.",
-            "date": "vor 6 Monaten",
+            "date": "6 maanden geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "azure-dreams-pure"
           }
         },
-        "review_ydnEaq": {
+        "review_UfaJJE": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Het product kwam mooi verpakt aan. Het parfum was niet kapot, niet gelekt en in goede staat. De geur is perfect en rook nergens naar. Ik ben er dol op, hoge kwaliteit\"</p>",
+            "content": "<p>\"Netjes verpakt en onbeschadigd ontvangen. De geur is heerlijk. Hoge kwaliteit.\"</p>",
             "author": "Roxanne S",
-            "date": "vor 5 Monaten",
+            "date": "5 maanden geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "jasmine-cocoa-tonka"
           }
         },
-        "review_jYa3Uw": {
+        "review_YGWg6W": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Van de service tot het product was de ervaring fenomenaal. Koop graag op elk moment weer.\"</p>",
+            "content": "<p>\"Van de klantenservice tot het product - de ervaring was fenomenaal. Ik kom zeker terug.\"</p>",
             "author": "Benjamin M",
-            "date": "vor 5 Monaten",
+            "date": "5 maanden geleden",
             "rating": 5,
             "show_verified_badge": false,
             "product": ""
           }
         },
-        "review_bxHkWi": {
+        "review_eGyDpR": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Geweldig product! Superbetaalbaar alternatief voor de merkparfums. De geur blijft lang hangen en je krijgt veel waar voor je geld\"</p>",
+            "content": "<p>\"Geweldig product. Een slim alternatief voor merkparfums. Blijft lang hangen en je krijgt veel waar voor je geld.\"</p>",
             "author": "EM",
-            "date": "4 Months ago",
+            "date": "4 maanden geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "bergamote-le-labo-bergamote-22"
           }
         },
-        "review_ctzLLM": {
+        "review_DbGYKc": {
           "type": "review",
+          "disabled": true,
           "settings": {
-            "content": "<p>\"Omg ik vond het geweldig, wauw! Precies als het origineel en het blijft de hele dag hangen!❤️‍🔥❤️‍🔥\"</p>",
+            "content": "<p>\"Oommgg ik ben er dol op! Wow! Net als het origineel en het blijft de hele dag hangen!❤️‍🔥❤️‍🔥\"</p>",
             "author": "شيطانة YT",
-            "date": "4 Months ago",
+            "date": "4 maanden geleden",
             "rating": 4,
             "show_verified_badge": true,
-            "product": ""
+            "product": "desert-storm"
           }
         },
-        "review_cHLLaK": {
+        "review_w7rGQg": {
           "type": "review",
           "settings": {
-            "content": "<p>\"De geur van dit parfum is supervol en ik vind het flesje en het design echt prachtig.. Ik zou het zeker weer gebruiken.\"</p>",
+            "content": "<p>\"De geur is intens en vol. Het flesje en het design zijn prachtig. Ik bestel zeker opnieuw.\"</p>",
             "author": "Eliannys Y",
-            "date": "vor 7 Monaten",
+            "date": "7 maanden geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "aldehydes-rose-sandalwood-50-ml-1-7-fl-oz"
           }
         },
-        "review_rWhDjf": {
+        "review_Xg6QrF": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Ik vind hem leuk! Fijne geur. Lekkere geur\"</p>",
+            "content": "<p>\"Ik vind het leuk! Ik ben dol op deze geur. Goede fragrance\"</p>",
             "author": "Aleksandra M",
-            "date": "vor 7 Monaten",
+            "date": "7 maanden geleden",
             "rating": 5,
             "show_verified_badge": false,
-            "product": ""
+            "product": "alpha-oil"
           }
         },
-        "review_qcDdkE": {
+        "review_Bhzenw": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Top product, ruikt fantastisch. Ik krijg steeds mensen die me vragen naar mijn geur en wat ik gebruik\"</p>",
+            "content": "<p>\"Geweldig product, ruikt fantastisch. Mensen vragen me regelmatig welk parfum ik draag.\"</p>",
             "author": "Damario R",
-            "date": "vor 7 Monaten",
+            "date": "7 maanden geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "azure-dreams-pure"
           }
         },
-        "review_pTd7GK": {
+        "review_RNkDTG": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Top merk en top producten!\"</p>",
+            "content": "<p>\"Geweldig merk, geweldige producten.\"</p>",
             "author": "Juliana B",
-            "date": "4 Months ago",
+            "date": "4 maanden geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "4x-50ml-perfume-bottles"
           }
         },
-        "review_dVP8Qf": {
+        "review_j8wKcd": {
           "type": "review",
+          "disabled": true,
           "settings": {
-            "content": "<p>\"Na een kleine vertraging heb ik eindelijk mijn Magic Perfume-parfums en ze zijn precies goed! Ik kan bijna niet geloven hoe exact ze overeenkomen met de originelen. Ter referentie: ik heb \"Ylang Ylang Rose Jasmine\" en \"Aldehydes Rose Sandalwood\" gekregen, het zijn echt mooie geuren\"</p>",
+            "content": "<p>\"Na een kleine vertraging heb ik eindelijk mijn TryScent parfums ontvangen en ze zijn precies goed! Ik kan haast niet geloven hoe nauwkeurig ze zijn ten opzichte van de originelen. Ter referentie: ik kreeg \"Ylang Ylang Rose Jasmine\" en \"Aldehydes Rose Sandalwood\" — het zijn echt prachtige geuren\"</p>",
             "author": "Gabriella K",
-            "date": "vor 7 Monaten",
+            "date": "7 maanden geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "amalfi-coast-mandarino-di-amalfi-fragrance"
           }
         },
-        "review_LpbJ7w": {
+        "review_yEyWP7": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Heel goed merk, ik ben dol op de verpakking en het aroma\"</p>",
+            "content": "<p>\"Erg goed merk. Blij met de verpakking en de geur.\"</p>",
             "author": "Rosa B",
-            "date": "vor 7 Monaten",
+            "date": "7 maanden geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "bergamote-le-labo-bergamote-22"
           }
         },
-        "review_dCJgxK": {
+        "review_KkRLfy": {
           "type": "review",
+          "disabled": true,
           "settings": {
-            "content": "<p>\"Ik ben een groot eau de cologne-fan, dus ik ben kieskeurig als het om klonen gaat, maar Magic Perfume heeft me volledig overtuigd. Ik had oorspronkelijk de Sauvage-kloon op de homepage besteld en herkende de geur meteen bij het sprayen. Ik heb er nu in totaal 4 van Magic Perfume en ik ben dol op allemaal. Dankzij hun bundelaanbiedingen zijn er nog 3 onderweg. Als je iets zoekt dat werkt met een klein budget en designerprestaties levert, kan ik ze niet genoeg aanraden.\"</p>",
+            "content": "<p>\"Ik ben een grote parfumliefhebber, dus ik ben kieskeurig als het gaat om klonen, maar TryScent heeft me volledig gewonnen. Ik bestelde oorspronkelijk de Sauvage-kloon op de homepage en herkende de geur meteen bij het spuiten. Ik bezit nu in totaal 4 TryScent geuren en ik ben er dol op. Er zijn er nog 3 onderweg dankzij hun bundelaanbiedingen. Als je iets wilt dat werkt met een beperkt budget en toch de prestaties van een designermerk levert, kan ik ze niet genoeg aanbevelen.\"</p>",
             "author": "Sean P",
-            "date": "4 Months ago",
+            "date": "4 maanden geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "fresh-escape-premium"
           }
         },
-        "review_aJ3TjE": {
+        "review_GPPnxQ": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Ik ben heel tevreden met het parfum van dit merk, ze hebben een net zo mooie geur als het origineel en dan voordeliger. Ik ga het zeker weer kopen\"</p>",
+            "content": "<p>\"Erg blij met dit merk. Prachtige geuren, net als het origineel maar voor minder geld. Ik koop zeker opnieuw.\"</p>",
             "author": "Angel",
-            "date": "8 Months ago",
+            "date": "8 maanden geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "6x-30ml-perfume-bottles"
           }
         },
-        "review_UqtW8y": {
+        "review_nJELg9": {
           "type": "review",
+          "disabled": true,
           "settings": {
-            "content": "<p>\"Deze zomer kreeg ik een sample van Creed Aventus cadeau en ik vond hem echt lekker, maar ik kon het origineel niet betalen, dus ging ik op zoek naar dupes. Ik vond Magic Perfume en bestelde \"Pineapple Smoke Vanilla\". Hij kwam binnen ongeveer een week binnen en ruikt echt goed, ook dicht bij mijn originele sample. Heel tevreden met het product, zeker voor de prijs\"</p>",
+            "content": "<p>\"Deze zomer kreeg ik een proefset van Creed Aventus als cadeau en ik vond het echt geweldig, maar ik kon het origineel niet betalen. Dus zocht ik naar dupes. Ik vond Tryscent en bestelde \"Pineapple Smoke Vanilla\". Het arriveerde in ongeveer een week en het ruikt echt goed, dicht bij mijn originele sample. Erg tevreden met het product, zeker voor de prijs\"</p>",
             "author": "Hwan H",
-            "date": "8 Months ago",
+            "date": "8 maanden geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "4x-50ml-perfume-bottles"
           }
         },
-        "review_jJFGk9": {
+        "review_kqR3XT": {
           "type": "review",
           "settings": {
-            "content": "<p>\"Ik heb hun 7,5 ml probeergeuren geprobeerd en tot mijn verrassing vond ik ze leuk. Ik heb een 2e bestelling geplaatst, maar dit keer de grotere flesjes genomen. Ik moet zeggen: mijn bestellingen kwamen op tijd en ze leverden de geuren waar ik van hou!\"</p>",
+            "content": "<p>\"Begonnen met de proefgeuren van 7,5ml en meteen overtuigd. Daarna direct de grotere flesjes besteld. Op tijd geleverd, precies wat ik wilde.\"</p>",
             "author": "Lauri E",
-            "date": "8 Months ago",
+            "date": "8 maanden geleden",
             "rating": 5,
             "show_verified_badge": true,
-            "product": ""
+            "product": "black-berry-vanilla-musk"
           }
         }
       },
       "block_order": [
-        "review_YE8xbk",
-        "review_pjzVtk",
-        "review_cCdWNE",
-        "review_mVXcif",
-        "review_mVgcRB",
-        "review_er43HU",
-        "review_HtrkLp",
-        "review_cpYCMR",
-        "review_9A3Vkt",
-        "review_aRdYJg",
-        "review_RACQeU",
-        "review_gB8CCL",
-        "review_ehGRfn",
-        "review_Rqd3wd",
-        "review_Hr7HnX",
-        "review_YhxM98",
-        "review_eciJLK",
-        "review_DUqExk",
-        "review_FfmhdU",
-        "review_HFYTjN",
-        "review_ydnEaq",
-        "review_jYa3Uw",
-        "review_bxHkWi",
-        "review_ctzLLM",
-        "review_cHLLaK",
-        "review_rWhDjf",
-        "review_qcDdkE",
-        "review_pTd7GK",
-        "review_dVP8Qf",
-        "review_LpbJ7w",
-        "review_dCJgxK",
-        "review_aJ3TjE",
-        "review_UqtW8y",
-        "review_jJFGk9"
+        "review_gF6wKD",
+        "review_ByDgLX",
+        "review_dKt8hn",
+        "review_VrkHXh",
+        "review_wczQWw",
+        "review_jNFxYP",
+        "review_9fWXGn",
+        "review_iPjTCz",
+        "review_myTAe8",
+        "review_DzktgE",
+        "review_YpX9h9",
+        "review_NBGz7p",
+        "review_MBb63N",
+        "review_hAJXhk",
+        "review_rad8A6",
+        "review_BLYVmX",
+        "review_eerxBx",
+        "review_GJGq9n",
+        "review_UWgaKy",
+        "review_pqPKKr",
+        "review_UfaJJE",
+        "review_YGWg6W",
+        "review_eGyDpR",
+        "review_DbGYKc",
+        "review_w7rGQg",
+        "review_Xg6QrF",
+        "review_Bhzenw",
+        "review_RNkDTG",
+        "review_j8wKcd",
+        "review_yEyWP7",
+        "review_KkRLfy",
+        "review_GPPnxQ",
+        "review_nJELg9",
+        "review_kqR3XT"
       ],
-      "name": "Massive Review",
       "settings": {
         "background_color": "#fcfbf9",
-        "heading": "Kundenrezensionen",
-        "review_text": "4,7/5 sterren, gebaseerd op meer dan 10.000 beoordelingen",
+        "heading": "Vertrouwd door 10.000+ klanten.",
+        "review_text": "★★★★★ 4,9 / 5 — meer dan 10.000 beoordelingen",
         "button_text": "Meer beoordelingen bekijken",
-        "button_link": "",
-        "padding_top": 72,
+        "button_link": "#",
+        "padding_top": 60,
         "padding_bottom": 72
       }
     },
