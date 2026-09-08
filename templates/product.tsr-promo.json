@@ -53,7 +53,7 @@
         "text_T466xD": {
           "type": "text",
           "settings": {
-            "text": "<strong>Kopfnoten: </strong>{{ product.metafields.custom.top_notes | metafield_text: field: 'heading' }}",
+            "text": "<strong>Kopfnoten: </strong>{{ product.metafields.custom.top_notes.value.title.value }}",
             "text_style": "body"
           }
         },
